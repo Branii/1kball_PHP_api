@@ -1,0 +1,7 @@
+{
+    "require": {
+        "leafs/leaf": "^3.2",
+        "leafs/cookie": "^1.1",
+        "catfan/medoo": "^2.1"
+    }
+}
